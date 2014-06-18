@@ -1,5 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 
+![CircleCI Build Status](https://circleci.com/gh/bellkev/angular-phonecat.png?circle-token=2bc05f1d73d7f26f0c4a3f6b31497690a9f25b77)
+
 ## Overview
 
 This application takes the developer through the process of building a web-application using
